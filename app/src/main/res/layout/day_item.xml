@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#fff">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:text="title"
+        android:id="@+id/slot_title"
+        />
+
+
+<LinearLayout
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#fff">
+
+    />
+
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_weight="0.25"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textStyle="italic|bold"
+        android:textSize="25dp"
+        android:id="@+id/m_8208"
+        />
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_weight="0.25"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textStyle="italic|bold"
+        android:textSize="25dp"
+        android:id="@+id/m_8209"
+        />
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_weight="0.25"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textStyle="italic|bold"
+        android:textSize="25dp"
+        android:id="@+id/m_8309"
+        />
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_weight="0.25"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textStyle="italic|bold"
+        android:textSize="25dp"
+        android:id="@+id/m_8310"
+        />
+
+</LinearLayout>
+
+</LinearLayout>
